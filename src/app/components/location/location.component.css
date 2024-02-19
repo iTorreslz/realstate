@@ -1,0 +1,18 @@
+#map { height: 450px; width: 450px;}
+
+button {
+    cursor: pointer;
+    padding: 10px;
+    border: solid 1px var(--primary-color);
+    background: #0039a6;
+    color: white;
+    border-radius: 8px;
+}
+
+#content {
+    display: flex;
+}
+
+#mapContent {
+    margin-right: 10px;
+}
